@@ -52,7 +52,7 @@ The **Task Management System** (TMS) is a web-based application designed to stre
 
 ## 📸 Screenshots
 
-- ![Login Page](login_page.png) 
+- ![Login Page](Login.png) 
 - Home Dashboard  
 - CRUD for Projects, Tasks, and Users  
 - Task Status & Progress Tracking  
